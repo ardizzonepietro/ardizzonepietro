@@ -1,5 +1,5 @@
 ### Hi there 👋
--I'm ardizzonepietro
+-I'm Ardizzone Pietro
 <!--
 **ardizzonepietro/ardizzonepietro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
